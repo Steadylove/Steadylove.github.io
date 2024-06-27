@@ -1,14 +1,10 @@
+/* eslint-disable react/no-unescaped-entities */
 export const App = (): JSX.Element => (
   <div className="container-box">
     <main>
       <div className="title">
         Welcome to
-        <img
-          className="logo"
-          src="https://lf3-static.bytednsdoc.com/obj/eden-cn/nuvshpqnulg/eden-x-logo.png"
-          alt="EdenX Logo"
-        />
-        <p className="name">EdenX</p>
+        <p className="name"> Steadylove's homepage</p>
       </div>
       <p className="description">
         Get started by editing <code className="code">src/index.tsx</code>
