@@ -1,0 +1,84 @@
+{
+  "routeAssets": {
+    "main": {
+      "chunkIds": [
+        272,
+        986,
+        991,
+        193,
+        651,
+        11,
+        179
+      ],
+      "assets": [
+        "/static/js/lib-polyfill.216ab4e3.js",
+        "/static/js/lib-lodash.9b905109.js",
+        "/static/js/lib-react.b15a9c6a.js",
+        "/static/js/lib-router.9c50156d.js",
+        "/static/js/11.405b86e7.js",
+        "/static/css/main.07adfd40.css",
+        "/static/js/main.107ee27a.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/main.07adfd40.css"
+      ]
+    },
+    "$": {
+      "chunkIds": [
+        242
+      ],
+      "assets": [
+        "/static/js/async/$.ff1997d9.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "page": {
+      "chunkIds": [
+        768
+      ],
+      "assets": [
+        "/static/css/async/page.0b93b559.css",
+        "/static/js/async/page.8466417d.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/page.0b93b559.css"
+      ]
+    },
+    "static/notice/page": {
+      "chunkIds": [
+        613
+      ],
+      "assets": [
+        "/static/css/async/static/notice/page.82dfee22.css",
+        "/static/js/async/static/notice/page.de43f50e.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/static/notice/page.82dfee22.css"
+      ]
+    },
+    "static/privacy-policy/page": {
+      "chunkIds": [
+        738
+      ],
+      "assets": [
+        "/static/css/async/static/privacy-policy/page.82dfee22.css",
+        "/static/js/async/static/privacy-policy/page.16be1c53.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/static/privacy-policy/page.82dfee22.css"
+      ]
+    },
+    "static/terms/page": {
+      "chunkIds": [
+        740
+      ],
+      "assets": [
+        "/static/css/async/static/terms/page.82dfee22.css",
+        "/static/js/async/static/terms/page.9c68de41.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/static/terms/page.82dfee22.css"
+      ]
+    }
+  }
+}
