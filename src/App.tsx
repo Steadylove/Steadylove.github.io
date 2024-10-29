@@ -3,7 +3,7 @@ export const App = (): JSX.Element => (
   <div className="container-box">
     <main>
       <div className="title">
-        Welcome to 1
+        Welcome to 111
         <p className="name"> Steadylove's homepage</p>
       </div>
       <p className="description">
